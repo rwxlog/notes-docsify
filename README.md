@@ -1,42 +1,66 @@
-# 🗒️ My Notes
+# 📑 Table of Contents
 
-> A structured personal knowledge base for Linux, WordPress, and Cybersecurity — built with **Docsify + GitHub Pages**.
+<details>
+<summary>💼 <strong>Career Notes</strong></summary>
+
+- 🛡 [90 Day Cybersecurity](CareerNotes/90-day-cybersecurity.md)  
+- 🌐 [90 Day WordPress](CareerNotes/90-day-wordpress.md)
+</details>
+
+<details>
+<summary>🧠 <strong>Cyber Notes</strong></summary>
+
+- 📄 [Sample Note](CyberNotes/samplenote.md)
+</details>
+
+<details>
+<summary>💻 <strong>Dev Notes</strong></summary>
+
+- ⚙️ [LAMP Setup](DevNotes/LAMP.md)  
+- 🗃 [phpMyAdmin](DevNotes/phpMyAdmin.md)  
+- 🔁 [WP Backup (Auto)](DevNotes/wp-backup-auto.md)  
+- 📦 [WP Backup (Compressed)](DevNotes/wp-backup-compressed.md)  
+- 💾 [WP Backup (Manual)](DevNotes/wp-backup.md)  
+- 🧰 [WP Database CLI](DevNotes/wp-database-cli.md)  
+- 🧮 [WP Database GUI](DevNotes/wp-database.md)  
+- 🔄 [WP Restore](DevNotes/wp-restore.md)
+</details>
+
+<details>
+<summary>🎯 <strong>Hunter Notes</strong></summary>
+
+- 📄 [Sample Note](HunterNotes/samplenote.md)
+</details>
+
+<details>
+<summary>🐧 <strong>Linux Notes</strong></summary>
+
+- 📜 [paclist](LinuxNotes/paclist.md)
+</details>
+
+<details>
+<summary>🛠 <strong>Tech Notes</strong></summary>
+
+- 💡 [GitHub](TechNotes/GitHub.md)
+</details>
+
+<details>
+<summary>🌐 <strong>Web Notes</strong></summary>
+
+- 🔗 [Markdown Links](WebNotes/markdown-links.md)  
+- 🖋 [Markdown Styling](WebNotes/markdown-styling.md)  
+- 📘 [MKDocs](WebNotes/MKDocs.md)  
+- 🔄 [Share Button](WebNotes/share-button.md)  
+- 🗂 [Site Structure (Noted)](WebNotes/site-structure-noted.md)  
+- 🏗 [Site Structure](WebNotes/site-structure.md)
+</details>
+
+<details>
+<summary>📦 <strong>Other Notes</strong></summary>
+
+- 📄 [Sample Note](OtherNotes/samplenote.md)
+</details>
 
 ---
 
-## 📚 Categories
-
-| Folder | Description |
-|--------|--------------|
-| [💼 Career Notes](/CareerNotes/) | Notes on career growth, soft skills, and job preparation |
-| [🕵️ Cyber Notes](/CyberNotes/) | Ethical hacking, digital security, and cybersecurity study materials |
-| [💻 Dev Notes](/DevNotes/) | Programming, scripting, and automation tips |
-| [🎯 Hunter Notes](/HunterNotes/) | Bug bounty and vulnerability research |
-| [🐧 Linux Notes](/LinuxNotes/) | Linux commands, sysadmin notes, and networking |
-| [⚙️ Tech Notes](/TechNotes/) | Tools, automation, AI, and general tech topics |
-| [🌐 Web Notes](/WebNotes/) | HTML, CSS, JavaScript, and WordPress development |
-| [🗒️ Other Notes](/OtherNotes/) | Miscellaneous and experimental notes |
-
----
-
-## 🧠 About
-
-This project serves as a **personal digital notebook**, organized into thematic folders.  
-Each folder contains structured Markdown notes that Docsify automatically renders into a fast, searchable website.
-
-Built with:
-- ⚡ **Docsify** for instant loading
-- 🌗 **Dark/Light theme**
-- 📂 **Auto-generated sidebar**
-- 🧭 **Navbar navigation**
-- 🔍 **Full-text search**
-
----
-
-## 🚀 Live Site
-
-Visit → [**rwxlog.github.io/notes-docsify**](https://rwxlog.github.io/notes-docsify)
-
----
-
-🛠 Maintained by [**rwxlog**](https://github.com/rwxlog)
+🧭 **Tip:** Click each category to expand its notes.

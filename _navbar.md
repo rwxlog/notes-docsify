@@ -9,4 +9,4 @@
   * [🌐 Web](/WebNotes/)
   * [🗒️ Other](/OtherNotes/)
 * [🔍 Search](#/)
-* [⭐ GitHub](https://github.com/rwxlog/mynotes)
+* [⭐ GitHub](https://github.com/rwxlog/notes-docsify)
