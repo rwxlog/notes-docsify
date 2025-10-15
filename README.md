@@ -35,7 +35,7 @@ Built with:
 
 ## 🚀 Live Site
 
-Visit → [**rwxlog.github.io/mynotes**](https://rwxlog.github.io/mynotes)
+Visit → [**rwxlog.github.io/mynotes**](https://rwxlog.github.io/notes-docsify)
 
 ---
 
